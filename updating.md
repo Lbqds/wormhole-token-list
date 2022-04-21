@@ -51,6 +51,8 @@ to add to this if defining a new market.
 ## Generating output
 After updating the above files, run the below to update the `.md` and `.json` outputs:
 ```
+pip3 install pandas
+pip3 install tabulate
 npm run gen
 ```
 

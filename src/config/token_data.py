@@ -26,6 +26,10 @@ TOKENS = {
         "bsc": {
           "address": "0x83850D97018f665EB746FBb8f18351e977d1b0D6",
           "decimals": 8
+        },
+        "alph": {
+          "address": "05db6c7df697952969e296b2340fb8bfb8fe9b3c3084fb0824c818ef4000a2f7",
+          "decimals": 8
         }
       },
       "sourceDecimals": 8
@@ -2457,6 +2461,28 @@ TOKENS = {
       "logo": "https://assets.coingecko.com/coins/images/4001/small/Fantom.png",
       "destinations": {},
       "sourceDecimals": 18
+    }
+  },
+  #################
+  # 13. Fantom native
+  #################
+  "alph": {
+    "TEST": {
+      "symbol": "TEST",
+      "name": "TEST",
+      "markets": {
+        "eth": ["uniswap"]
+      },
+      "coingeckoId": "alph-test",
+      "logo": "https://assets.coingecko.com/coins/images/4001/small/Fantom.png",
+      "sourceAddress": "55db6c7df697952969e296b2340fb8bfb8fe9b3c3084fb0824c818ef4000a2f7",
+      "destinations": {
+        "eth": {
+          "address": "0x0693B19d2931d498c5B318dF961919BB4aee87a5",
+          "decimals": 8
+        }
+      },
+      "sourceDecimals": 8
     }
   }
 }

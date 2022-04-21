@@ -131,6 +131,7 @@
   },
   "tokenMarkets": {
     "1": {
+      "13": {},
       "2": {
         "33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX": {
           "markets": [
@@ -499,6 +500,28 @@
         }
       }
     },
+    "13": {
+      "1": {},
+      "2": {
+        "55db6c7df697952969e296b2340fb8bfb8fe9b3c3084fb0824c818ef4000a2f7": {
+          "markets": [
+            "uniswap"
+          ]
+        }
+      },
+      "3": {},
+      "4": {
+        "05db6c7df697952969e296b2340fb8bfb8fe9b3c3084fb0824c818ef4000a2f7": {
+          "markets": [
+            "pancakeswap"
+          ]
+        }
+      },
+      "5": {},
+      "6": {},
+      "7": {},
+      "8": {}
+    },
     "2": {
       "1": {
         "0x0316eb71485b0ab14103307bf65a021042c6d380": {
@@ -780,6 +803,7 @@
           ]
         }
       },
+      "13": {},
       "3": {
         "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599": {
           "markets": [
@@ -1181,6 +1205,7 @@
           ]
         }
       },
+      "13": {},
       "2": {
         "terra14tl83xcwqjy0ken9peu4pjjuu755lrry2uy25r": {
           "markets": [
@@ -1619,6 +1644,7 @@
           ]
         }
       },
+      "13": {},
       "2": {
         "0x035de3679E692C471072d1A09bEb9298fBB2BD31": {
           "markets": [
@@ -1985,6 +2011,7 @@
           ]
         }
       },
+      "13": {},
       "2": {
         "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270": {
           "markets": [
@@ -2321,6 +2348,7 @@
           ]
         }
       },
+      "13": {},
       "2": {
         "0x0950Fc1AD509358dAeaD5eB8020a3c7d8b43b9DA": {
           "markets": [
@@ -2693,6 +2721,7 @@
           ]
         }
       },
+      "13": {},
       "2": {
         "0x1d1149a53deB36F2836Ae7877c9176413aDfA4A8": {
           "markets": [
@@ -3004,6 +3033,7 @@
           ]
         }
       },
+      "13": {},
       "2": {
         "0x2Ec752329c3EB419136ca5e4432Aa2CDb1eA23e6": {
           "markets": [
@@ -3562,6 +3592,16 @@
         "symbol": "SRMet"
       }
     },
+    "13": {
+      "05db6c7df697952969e296b2340fb8bfb8fe9b3c3084fb0824c818ef4000a2f7": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ATLAS_wh.png",
+        "symbol": "ATLAS"
+      },
+      "55db6c7df697952969e296b2340fb8bfb8fe9b3c3084fb0824c818ef4000a2f7": {
+        "logo": "https://assets.coingecko.com/coins/images/4001/small/Fantom.png",
+        "symbol": "TEST"
+      }
+    },
     "2": {
       "0x009178997aff09a67d4caccfeb897fb79d036214": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/1SOL_wh.png",
@@ -3570,6 +3610,10 @@
       "0x0316eb71485b0ab14103307bf65a021042c6d380": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/HBTC_wh.png",
         "symbol": "HBTC"
+      },
+      "0x0693B19d2931d498c5B318dF961919BB4aee87a5": {
+        "logo": "https://assets.coingecko.com/coins/images/4001/small/Fantom.png",
+        "symbol": "TEST"
       },
       "0x08d967bb0134f2d07f7cfb6e246680c53927dd30": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/MATH_wh.png",

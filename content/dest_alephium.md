@@ -1,0 +1,9 @@
+
+Known tokens (wormholed to Alephium)
+===================================
+_See [by_dest.csv](by_dest.csv) ([raw](https://raw.githubusercontent.com/certusone/wormhole-token-list/main/content/by_dest.csv)) for a superset of this data in csv._
+
+  
+| img                                                                                                | symbol   | name                                                            | address                                                                                                                                                                  |   decimals | origin   | sourceAddress                                                                                                           |   sourceDecimals | symbol   |
+|:---------------------------------------------------------------------------------------------------|:---------|:----------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------:|:---------|:------------------------------------------------------------------------------------------------------------------------|-----------------:|:-----------------|
+| ![ATLAS](https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ATLAS_wh.png) | ATLAS    | [Star Atlas (Portal)](http://coingecko.com/en/coins/star-atlas) | [05db6c7df697952969e296b2340fb8bfb8fe9b3c3084fb0824c818ef4000a2f7](https://explorer.alephium.org/token/05db6c7df697952969e296b2340fb8bfb8fe9b3c3084fb0824c818ef4000a2f7) |          8 | solana   | [ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx](https://solscan.io/address/ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx) |                8 | ATLAS            |
